@@ -1,0 +1,2 @@
+bip-utils>=2.9.3
+ecashaddress>=1.1.0
