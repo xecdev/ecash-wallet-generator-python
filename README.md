@@ -2,10 +2,10 @@
 
 A simple Python script to generate **eCash wallets** compatible with [Cashtab](https://cashtab.com), using the derivation path (`m/44'/1899'/0'/0/0`).
 
-## 🚀 Features
+## Features
 - Generates a 12-word mnemonic (BIP39).
-- Derives private & public keys using BIP32 (Secp256k1).
 - Generates a valid **eCash address** in `ecash:` format for the generated mnemonic.
+- Derives private & public keys using BIP32 (Secp256k1).
 - Fully compatible with Cashtab imports.
 
 ## ⚙️ Installation
